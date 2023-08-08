@@ -10,7 +10,8 @@ body{
     align-items: center;
 }
 .container{
-    width: fit-content;
+    width: 353px;
+    height: 336px;
     font-family: 'Poppins', sans-serif;
 }
 h2{
